@@ -10,15 +10,15 @@ Python is dynamically typed,general purpose programming language that supports a
 
 ***MODULES***
 *Built-In Modules*
-Installed using pip
-pip is a package manager where it install packages 
+--Installed using pip
+--pip is a package manager where it install packages 
 *External Modules*
-Modules built by the external users
+--Modules built by the external users
 
 
 ***Variables***
-Variable is like a container that holds data . 
-For ex:--> a=23
+--Variable is like a container that holds data . 
+*For ex:--> a=23
            print(a)
            Here ,a will store the value to 23
 
