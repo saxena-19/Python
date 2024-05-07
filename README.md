@@ -11,7 +11,8 @@ Python is dynamically typed,general purpose programming language that supports a
 ***MODULES***
 *Built-In Modules*
 --Installed using pip
---pip is a package manager where it install packages 
+--pip is a package manager where it install packages \n
+
 *External Modules*
 --Modules built by the external users
 
